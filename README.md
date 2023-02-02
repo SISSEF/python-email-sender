@@ -17,9 +17,19 @@ To use this email sender, you'll need the following information:
 
 Follow these steps to run the email sender:
 
-    1. Enter your email,password and SMTP Server information in the credentials.py file.
-    2. Make sure both credentials.py and email_sender.py are in the same directory.
-    3. Run the email_sender.py file."
+1. Enter your email,password and SMTP Server information in the credentials.py file.
+2. Make sure both credentials.py and email_sender.py are in the same directory.
+3. Run the email_sender.py file."
 
 ## Cloning / Forking
-This repositorie is licensed under a MIT [LICENSE].
+
+```bash
+  git clone https://github.com/SISSEF/python-email-sender.git
+```
+This project is licensed under a [MIT](https://choosealicense.com/licenses/mit/) LICENSE.
+
+## Feedback
+
+If you have any feedback, please reach out to me at youssef@idlahsen.me
+
+- [@SISSEF](https://github.com/SISSEF/)
