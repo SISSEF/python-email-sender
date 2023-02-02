@@ -1,0 +1,4 @@
+smtp_server = 'REPLACE WITH SERVER ADDRESS'
+smtp_port = 'REPLACE WITH SERVER PORT'
+sender_email = 'REPLACE WITH YOUR EMAIL'
+sender_password = 'REPLACE WITH ENTER YOUR PASSWORD'
