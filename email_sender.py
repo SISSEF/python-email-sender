@@ -22,4 +22,4 @@ if __name__ == '__main__':
     recipient_email = input("Please enter the recipient's email address: ")
     subject = input("Please enter the subject of the email: ")
     message = input("Please enter the message: ")
-    send_email(subject, message, sender_email, sender_password, recipient_email)
+    send_email(subject, message, sender_email, sender_password, recipient_email, smtp_server, smtp_port)
